@@ -1,0 +1,195 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "singhsomraj96@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:singhsomraj96@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 6264472572",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+91 6264472572"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "dribbble",
+        "icon": "/images/icon/dribble-icon.svg",
+        "link": "https://dribbble.com/somrajwebdesigner/about?utm_source=Clipboard_%22clipboard_about%22&utm_campaign=%22somrajwebdesigner%22&utm_content=%22About%20somrajwebdesigner%22&utm_medium=Social_Share"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/somraj-singh-568481246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "#"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "B.Tech — Shree Ram Group of Institute (Continuing)",
+        "description": "Currently pursuing a Bachelor of Technology with a focus on enhancing technical and analytical skills. Building a strong foundation in programming, software development, and modern engineering concepts to align with emerging technologies."
+      },
+      {
+        "title": "Master Web Designing — IT Learning Institute (2023 – 2024)",
+        "description": "Completed an advanced web design program specializing in UI/UX principles, responsive design, and front-end development. Gained hands-on experience with tools like Figma, Photoshop, and technologies such as HTML5, CSS3, JavaScript, and React."
+      },
+      {
+        "title": "12th (Higher Secondary) — MP Board, Bhopal (2022)",
+        "description": "Completed higher secondary education with a focus on science and technology, laying the groundwork for a career in engineering and design."
+      },
+      {
+        "title": "10th (High School) — MP Board, Bhopal (2020)",
+        "description": "Successfully completed high school with distinction, developing core academic and problem-solving skills essential for further studies in technology and design."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML 5",
+        "icon": "/images/home/education-skill/html5-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Css3",
+        "icon": "/images/home/education-skill/css3-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "SASS",
+        "icon": "/images/home/education-skill/sass-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/images/home/education-skill/javascript-icon.svg",
+        "rating": 3
+      },
+      {
+        "name": "TypeScript",
+        "icon": "/images/home/education-skill/typescript-icon.svg",
+        "rating": 2
+      },
+      {
+        "name": "React",
+        "icon": "/images/home/education-skill/react-icon.svg",
+        "rating": 3
+      },
+      {
+        "name": "Bootstrap",
+        "icon": "/images/home/education-skill/bootstrap-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Tailwind CSS",
+        "icon": "/images/home/education-skill/tailwindcss-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Photoshop",
+        "icon": "/images/home/education-skill/photoshop-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Canva",
+        "icon": "/images/home/education-skill/canva-icon.svg",
+        "rating": 3
+      },
+      {
+        "name": "Responsive Design",
+        "icon": "/images/home/education-skill/responsivedesign-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Keyframe Animation",
+        "icon": "/images/home/education-skill/keyframeanimation-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "PSD to HTML",
+        "icon": "/images/home/education-skill/psdtohtml-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Email Template Design",
+        "icon": "/images/home/education-skill/emailtemplates-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Browser Compatibility",
+        "icon": "/images/home/education-skill/Browsercompatibility-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "WordPress",
+        "icon": "/images/home/education-skill/wordpress-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Visual Studio Code",
+        "icon": "/images/home/education-skill/visualstudiocode-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Loveable UI/UX",
+        "icon": "/images/home/education-skill/lovable-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Perplexity",
+        "icon": "/images/home/education-skill/perplexity-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "ChatGPT",
+        "icon": "/images/home/education-skill/chatgpt-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "SEO",
+        "icon": "/images/home/education-skill/seo-icon.svg",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Dribble",
+        "href": "https://dribbble.com/somrajwebdesigner/about?utm_source=Clipboard_%22clipboard_about%22&utm_campaign=%22somrajwebdesigner%22&utm_content=%22About%20somrajwebdesigner%22&utm_medium=Social_Share"
+      },
+      {
+        "title": "Facebook",
+        "href": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/somraj-singh-568481246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "singhsomraj96@gmail.com",
+        "link": "mailto:singhsomraj96@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 6264472572",
+        "link": "tel:+91 6264472572"
+      }
+    ]
+  }
+}

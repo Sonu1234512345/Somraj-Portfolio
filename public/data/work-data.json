@@ -1,0 +1,132 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/decoraitrade.png",
+      "title": "Decoraitrade — AI-Powered Furniture B2B Platform",
+      "client": "Decoraitrade",
+      "type": "Html Css Website",
+      "slug": "decoraitrade-b2b-furniture-platform",
+      "href": "https://decoraitrade.com/"
+    },
+    {
+      "image": "/images/work/moodmaestro.png",
+      "title": "Mood Maestro — Sustainable Furniture & Décor Store",
+      "client": "Mood Maestro",
+      "type": "Html Css Website",
+      "slug": "Sustainable-Furniture-&-Décor-Store",
+      "href": "https://www.moodmaestro.co.uk/"
+    },
+    {
+      "image": "/images/work/alvio.png",
+      "title": "Alvio — Private AI Assistant & Automation Platform",
+      "client": "Alvio",
+      "type": "Html Css Website",
+      "slug": "alvio-private-ai-assistant-platform",
+      "href": "https://alvio.io/"
+    },
+    {
+      "image": "/images/work/alviolabs.png",
+      "title": "Alvio Labs — AI Automation & Digital Transformation Platform",
+      "client": "Alvio Labs",
+      "type": "Wordpress Website",
+      "slug": "alvio-labs-ai-automation-platform",
+      "href": "https://alviolabs.com/"
+    },
+    {
+      "image": "/images/work/isarsystems.png",
+      "title": "ISAR Systems — Enterprise IT Solutions & Consulting Website",
+      "client": "ISAR Systems",
+      "type": "Wordpress Website",
+      "slug": "isar-systems-enterprise-it-solutions",
+      "href": "https://www.isarsystems.com/"
+    },
+    {
+      "image": "/images/work/euaitraining.png",
+      "title": "EU AI Training — EU AI Act Compliance & Corporate Training Platform",
+      "client": "EU AI Training",
+      "type": "Wordpress Website",
+      "slug": "eu-ai-training-compliance-platform",
+      "href": "https://dev.euaitraining.com/"
+    },
+    {
+      "image": "/images/work/driveawayautoaudit.png",
+      "title": "DriveAway Auto Audit — Vehicle Verification & Fraud Detection Platform",
+      "client": "DriveAway Auto Audit",
+      "type": "Wordpress Website",
+      "slug": "driveaway-auto-audit-vehicle-verification-platform",
+      "href": "https://www.driveawayautoaudit.com/"
+    },
+    {
+      "image": "/images/work/progresshub.png",
+      "title": "ProgressHub — Online Learning & Training Platform",
+      "client": "ProgressHub",
+      "type": "Wordpress Website",
+      "slug": "progresshub-edtech-lms-platform",
+      "href": "https://www.progress-hub.com/"
+    },
+    {
+      "image": "/images/work/vishub.png",
+      "title": "VisHub — Automotive Digital Sales Automation",
+      "client": "VisHub",
+      "type": "Wordpress Website",
+      "slug": "vishub-automotive-b2b-saas-platform",
+      "href": "https://dev.vishub.co.uk/"
+    },
+    {
+      "image": "/images/work/icancare.png",
+      "title": "iCanCare — Oral Cancer Diagnosis & Photo Treatment Platform",
+      "client": "iCanCare",
+      "type": "Wordpress Website",
+      "slug": "icancare-healthcare-medical-platform",
+      "href": "https://icancare.com/"
+    },
+    {
+      "image": "/images/work/mobile-screens-figma.png",
+      "title": "Mobile Commerce App UI — E-Commerce Shopping Experience",
+      "client": "UI/UX Concept Project",
+      "type": "Figma Design",
+      "slug": "mobile-commerce-app-ui-design",
+      "href": "https://www.figma.com/proto/MudWyEAdxrXR45JUrFEGM2/Mobile-screens?node-id=6-3&t=CvLby5RFCAUmprLH-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A3"
+    },
+    {
+      "image": "/images/work/agrimo_new.png",
+      "title": "Agrimo — Organic Agriculture & Farm Products eCommerce Platform",
+      "client": "Agrimo",
+      "type": "Figma Design",
+      "slug": "agrimo-organic-agriculture-ecommerce-platform",
+      "href": "https://www.figma.com/proto/jaQpt7NdnRtWKKxRYvMmju/Agrimo?node-id=1-2&starting-point-node-id=1%3A2&scaling=scale-down-width&content-scaling=fixed&t=j0FRtUX8zOHwY1rW-1"
+    },
+    {
+      "image": "/images/work/tech-fixers.jpg",
+      "title": "Tech Fixers — Mobile & Device Repair Service Website",
+      "client": "Tech Fixers",
+      "type": "Figma Design",
+      "slug": "tech-fixers-device-repair-service-website",
+      "href": "https://www.figma.com/proto/BspBDWLpkPGIExGnyopdfo/Untitled?node-id=1-2&starting-point-node-id=1%3A2"
+    },
+    {
+      "image": "/images/work/premium-vehicle.jpg",
+      "title": "Revus — Premium Car Dealer & Vehicle Listing Platform",
+      "client": "Revus",
+      "type": "Figma Design",
+      "slug": "revus-premium-car-dealer-platform",
+      "href": "https://www.figma.com/proto/6EcWLSPwxzxsBS5nayoeTw/Premimum-Vehicles?node-id=1-2&starting-point-node-id=1%3A2"
+    },
+    {
+      "image": "/images/work/restaurant.jpg",
+      "title": "Restaurant Website UI — Food Ordering & Table Reservation Design",
+      "client": "Restaurant UI Concept",
+      "type": "Photoshop PSD",
+      "slug": "restaurant-website-ui-food-ordering-design",
+      "href": "/images/work/restaurant.jpg"
+    },
+    {
+      "image": "/images/work/app-lab.jpg",
+      "title": "App Lab — Mobile App Landing Page & Marketing Website",
+      "client": "App Lab",
+      "type": "Photoshop PSD",
+      "slug": "app-lab-mobile-app-landing-page",
+      "href": "/images/work/app-lab.jpg"
+    }
+  ]
+}
