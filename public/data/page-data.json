@@ -35,19 +35,19 @@
   "educationData": {
     "education": [
       {
-        "title": "B.Tech — Shree Ram Group of Institute (Continuing)",
-        "description": "Currently pursuing a Bachelor of Technology with a focus on enhancing technical and analytical skills. Building a strong foundation in programming, software development, and modern engineering concepts to align with emerging technologies."
-      },
-      {
         "title": "Master Web Designing — IT Learning Institute (2023 – 2024)",
         "description": "Completed an advanced web design program specializing in UI/UX principles, responsive design, and front-end development. Gained hands-on experience with tools like Figma, Photoshop, and technologies such as HTML5, CSS3, JavaScript, and React."
       },
       {
-        "title": "12th (Higher Secondary) — MP Board, Bhopal (2022)",
+        "title": "B.Tech — Shree Ram Group of Institute (2020 – 2024)",
+        "description": "Currently pursuing a Bachelor of Technology with a focus on enhancing technical and analytical skills. Building a strong foundation in programming, software development, and modern engineering concepts to align with emerging technologies."
+      },
+      {
+        "title": "12th (Higher Secondary) — MP Board, Bhopal (2020)",
         "description": "Completed higher secondary education with a focus on science and technology, laying the groundwork for a career in engineering and design."
       },
       {
-        "title": "10th (High School) — MP Board, Bhopal (2020)",
+        "title": "10th (High School) — MP Board, Bhopal (2018)",
         "description": "Successfully completed high school with distinction, developing core academic and problem-solving skills essential for further studies in technology and design."
       }
     ],
